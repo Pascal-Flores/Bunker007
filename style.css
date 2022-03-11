@@ -1,0 +1,16 @@
+html, body {
+    border: none;
+    margin:  none;
+    padding: none;
+    width: 100%;
+    min-height : 100%;
+    display: flex;
+    flex-direction: column;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    min-height: 100%;
+    background-image: url('background.svg');
+}
